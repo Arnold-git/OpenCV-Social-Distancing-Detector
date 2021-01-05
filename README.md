@@ -7,5 +7,5 @@ The red boxes show violators while the green boxes shows people within safe dist
 This project can be used by law enforcement agencies to enforce social distancing and also monitor compliance level.
 [link to download the output file](https://github.com/Arnold-git/OpenCV-Social-Distancing-Detector/blob/master/Documents/Project_Social_Distance/OpenCV-Social-Distancing-Detector/output%20file.mp4)
 
-#Project credit
+# Project credit
 *I got the inspiration for this project from PyImageSearch*
